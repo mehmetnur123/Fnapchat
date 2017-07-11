@@ -1,5 +1,4 @@
 //
-//  ViewController.swift
 //  SignInViewController.swift
 //  Fnapchat
 //
@@ -11,7 +10,6 @@ import UIKit
 import FirebaseAuth
 import FirebaseDatabase
 
-class ViewController: UIViewController {
 class SignInViewController: UIViewController {
 
     @IBOutlet weak var emailTextField: UITextField!

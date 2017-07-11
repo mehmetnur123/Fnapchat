@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		02BE18CA1F0ED15500B17CC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BE18C91F0ED15500B17CC9 /* AppDelegate.swift */; };
-		02BE18CC1F0ED15500B17CC9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BE18CB1F0ED15500B17CC9 /* ViewController.swift */; };
 		02BE18CC1F0ED15500B17CC9 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BE18CB1F0ED15500B17CC9 /* SignInViewController.swift */; };
 		02BE18CF1F0ED15500B17CC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02BE18CD1F0ED15500B17CC9 /* Main.storyboard */; };
 		02BE18D11F0ED15500B17CC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02BE18D01F0ED15500B17CC9 /* Assets.xcassets */; };
@@ -27,7 +26,6 @@
 /* Begin PBXFileReference section */
 		02BE18C61F0ED15500B17CC9 /* Fnapchat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fnapchat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BE18C91F0ED15500B17CC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		02BE18CB1F0ED15500B17CC9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		02BE18CB1F0ED15500B17CC9 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		02BE18CE1F0ED15500B17CC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		02BE18D01F0ED15500B17CC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -82,7 +80,6 @@
 				02BE18E51F12B00C00B17CC9 /* Model */,
 				02BE18E61F12B01500B17CC9 /* Controller */,
 				02BE18C91F0ED15500B17CC9 /* AppDelegate.swift */,
-				02BE18CB1F0ED15500B17CC9 /* ViewController.swift */,
 				02BE18CD1F0ED15500B17CC9 /* Main.storyboard */,
 				02BE18D01F0ED15500B17CC9 /* Assets.xcassets */,
 				02BE18D21F0ED15500B17CC9 /* LaunchScreen.storyboard */,
@@ -257,7 +254,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02BE18CC1F0ED15500B17CC9 /* ViewController.swift in Sources */,
 				02BE18CC1F0ED15500B17CC9 /* SignInViewController.swift in Sources */,
 				02BE18E01F123E3900B17CC9 /* PictureViewController.swift in Sources */,
 				02BE18E41F12AFEC00B17CC9 /* User.swift in Sources */,
